@@ -10,3 +10,4 @@ testt
 testt
 testt
 Git is free software gpl
+Git has a mutable index called stage
